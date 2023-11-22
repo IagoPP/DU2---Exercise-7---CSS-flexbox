@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+article{
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+}
